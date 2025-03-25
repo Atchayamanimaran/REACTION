@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Bebas+Neue&family=Boldonse&family=Oleo+Script:wght@400;700&family=Oswald:wght@200..700&family=Pacifico&display=swap');
+
+h1{
+  font-family: "Oswald", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: weight;
+  font-style: normal;
+  color:black;
+  text-align: center;
+  
+}
+p{
+  text-align: center;
+  font-size: xx-large;
+  color: black;
+  font-family: "Oswald", sans-serif;
+  font-weight: weight;
+}
+.container{
+  align-items: center;
+
+}
+.buttons{
+  height: 20px;
+  width: 10px;
+  display: flex;
+  flex-direction: row;
+  margin-left: 650px;
+}
+.HAPPY{
+  background-color:lightcoral;
+  height: 200vh;
+  background-size: cover;
+}
+.SAD{
+  background-color:dimgray;
+  height: 100vh;
+  background-size: cover;
+}
+.EXITED{
+  background-color: hotpink;
+  height: 100vh;
+  background-size: cover;
+}
+.ANGRY{
+  background-color: red;
+  height: 100vh;
+  background-size: cover;
+}
